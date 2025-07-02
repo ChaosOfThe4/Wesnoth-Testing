@@ -1,0 +1,253 @@
+﻿  DMALibrary.cpp
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\leechcore.h(124,11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/DMALibrary.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\leechcore.h(124,11):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\leechcore.h(491,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/DMALibrary.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\leechcore.h(491,10):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\leechcore.h(500,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/DMALibrary.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\leechcore.h(500,10):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(395,35): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/DMALibrary.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(395,35):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1458,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/DMALibrary.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1458,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1468,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/DMALibrary.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1468,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1475,27): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/DMALibrary.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1475,27):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1484,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/DMALibrary.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1484,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1493,36): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/DMALibrary.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1493,36):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1509,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/DMALibrary.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1509,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1519,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/DMALibrary.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1519,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1528,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/DMALibrary.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1528,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1536,31): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/DMALibrary.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1536,31):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1543,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/DMALibrary.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1543,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1552,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/DMALibrary.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1552,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1563,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/DMALibrary.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1563,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1572,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/DMALibrary.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1572,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1580,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/DMALibrary.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1580,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1589,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/DMALibrary.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1589,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1598,24): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/DMALibrary.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1598,24):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1607,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/DMALibrary.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1607,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(2141,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/DMALibrary.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(2141,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  InputManager.cpp
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\Memory\InputManager.cpp(1,10): error C1083: Cannot open include file: 'pch.h': No such file or directory
+  Memory.cpp
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\Memory\Memory.cpp(1,10): error C1083: Cannot open include file: 'pch.h': No such file or directory
+  Registry.cpp
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\Memory\Registry.cpp(1,10): error C1083: Cannot open include file: 'pch.h': No such file or directory
+  Shellcode.cpp
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\Memory\Shellcode.cpp(1,10): error C1083: Cannot open include file: 'pch.h': No such file or directory
+  pch.cpp
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\leechcore.h(124,11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/pch.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\leechcore.h(124,11):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\leechcore.h(491,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/pch.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\leechcore.h(491,10):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\leechcore.h(500,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/pch.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\leechcore.h(500,10):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(395,35): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/pch.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(395,35):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1458,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/pch.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1458,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1468,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/pch.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1468,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1475,27): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/pch.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1475,27):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1484,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/pch.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1484,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1493,36): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/pch.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1493,36):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1509,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/pch.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1509,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1519,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/pch.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1519,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1528,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/pch.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1528,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1536,31): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/pch.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1536,31):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1543,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/pch.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1543,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1552,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/pch.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1552,28):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1563,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/pch.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1563,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1572,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/pch.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1572,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1580,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/pch.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1580,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1589,26): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/pch.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1589,26):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1598,24): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/pch.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1598,24):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1607,29): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/pch.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(1607,29):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(2141,25): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'DMALibrary/pch.cpp')
+      C:\Users\Nickson\Desktop\DMA-Templates-master\DMALibrary\libs\vmmdll.h(2141,25):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  kmboxNet.cpp
+C:\Users\Nickson\Desktop\DMA-Templates-master\KmBox\HidTable.h(119,9): warning C4005: 'KEY_EXECUTE': macro redefinition
+  (compiling source file 'KmBox/kmboxNet.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(23264,9):
+      see previous definition of 'KEY_EXECUTE'
+  
+C:\Users\Nickson\Desktop\DMA-Templates-master\KmBox\kmboxNet.cpp(1339,22): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+  my_enc.cpp
+  Config.cpp
+  main.cpp
+C:\Users\Nickson\Desktop\DMA-Templates-master\OurProgram\main.cpp(1,10): error C1083: Cannot open include file: 'kmboxNet.h': No such file or directory
+  Menu.cpp
+C:\Users\Nickson\Desktop\DMA-Templates-master\OurProgram\Menu.cpp(1,10): error C1083: Cannot open include file: 'imgui.h': No such file or directory
+  Generating Code...

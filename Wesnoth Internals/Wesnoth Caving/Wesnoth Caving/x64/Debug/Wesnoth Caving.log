@@ -1,0 +1,67 @@
+﻿  dllmain.cpp
+C:\Users\valk_\source\repos\Wesnoth Caving\Wesnoth Caving\dllmain.cpp(12,12): error C2485: '__declspec(identifier)' is not a recognized extended attribute
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\valk_\source\repos\Wesnoth Caving\Wesnoth Caving\dllmain.cpp(15,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\valk_\source\repos\Wesnoth Caving\Wesnoth Caving\dllmain.cpp(16,3): error C2065: 'pushad': undeclared identifier
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\valk_\source\repos\Wesnoth Caving\Wesnoth Caving\dllmain.cpp(17,2): error C2143: syntax error: missing ';' before '}'
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\valk_\source\repos\Wesnoth Caving\Wesnoth Caving\dllmain.cpp(21,14): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\valk_\source\repos\Wesnoth Caving\Wesnoth Caving\dllmain.cpp(22,9): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\valk_\source\repos\Wesnoth Caving\Wesnoth Caving\dllmain.cpp(25,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\valk_\source\repos\Wesnoth Caving\Wesnoth Caving\dllmain.cpp(26,3): error C2065: 'popad': undeclared identifier
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\valk_\source\repos\Wesnoth Caving\Wesnoth Caving\dllmain.cpp(27,3): error C2146: syntax error: missing ';' before identifier 'mov'
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\valk_\source\repos\Wesnoth Caving\Wesnoth Caving\dllmain.cpp(27,3): error C2065: 'mov': undeclared identifier
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\valk_\source\repos\Wesnoth Caving\Wesnoth Caving\dllmain.cpp(27,7): error C2146: syntax error: missing ';' before identifier 'eax'
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\valk_\source\repos\Wesnoth Caving\Wesnoth Caving\dllmain.cpp(27,7): error C2065: 'eax': undeclared identifier
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\valk_\source\repos\Wesnoth Caving\Wesnoth Caving\dllmain.cpp(27,12): error C2065: 'dword': undeclared identifier
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\valk_\source\repos\Wesnoth Caving\Wesnoth Caving\dllmain.cpp(27,18): error C2146: syntax error: missing ';' before identifier 'ptr'
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\valk_\source\repos\Wesnoth Caving\Wesnoth Caving\dllmain.cpp(27,18): error C2065: 'ptr': undeclared identifier
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\valk_\source\repos\Wesnoth Caving\Wesnoth Caving\dllmain.cpp(27,22): error C2146: syntax error: missing ';' before identifier 'ds'
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\valk_\source\repos\Wesnoth Caving\Wesnoth Caving\dllmain.cpp(27,28): error C2337: 'ecx': attribute not found
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\valk_\source\repos\Wesnoth Caving\Wesnoth Caving\dllmain.cpp(28,3): error C2059: syntax error: '<default int type>'
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\valk_\source\repos\Wesnoth Caving\Wesnoth Caving\dllmain.cpp(43,34): warning C4311: 'type cast': pointer truncation from 'void (__cdecl *)(void)' to 'DWORD'
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\valk_\source\repos\Wesnoth Caving\Wesnoth Caving\dllmain.cpp(43,34): warning C4302: 'type cast': truncation from 'void (__cdecl *)(void)' to 'DWORD'
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\valk_\source\repos\Wesnoth Caving\Wesnoth Caving\dllmain.cpp(43,54): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'DWORD'
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\valk_\source\repos\Wesnoth Caving\Wesnoth Caving\dllmain.cpp(43,54): warning C4302: 'type cast': truncation from 'unsigned char *' to 'DWORD'
+  (compiling source file '/dllmain.cpp')
+  

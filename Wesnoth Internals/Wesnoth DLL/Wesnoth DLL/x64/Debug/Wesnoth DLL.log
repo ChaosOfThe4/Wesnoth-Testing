@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\valk_\source\repos\Wesnoth DLL\Wesnoth DLL\dllmain.cpp(13,32): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\valk_\source\repos\Wesnoth DLL\Wesnoth DLL\dllmain.cpp(14,27): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+  (compiling source file '/dllmain.cpp')
+  
+  Wesnoth DLL.vcxproj -> C:\Users\valk_\source\repos\Wesnoth DLL\x64\Debug\Wesnoth DLL.dll
